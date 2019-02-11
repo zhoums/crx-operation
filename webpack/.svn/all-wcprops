@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/webpack
+END
+prod.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/webpack/prod.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/webpack/common.js
+END
+local.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/webpack/local.js
+END
+dev.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/webpack/dev.js
+END

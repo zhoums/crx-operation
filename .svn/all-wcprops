@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation
+END
+background.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/background.html
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/package.json
+END
+unnamed.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/unnamed.patch
+END
+popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/popup.html
+END
+package-lock.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/package-lock.json
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/media-cms-core/!svn/ver/1291/trunk/code/source/plugin/crx-operation/manifest.json
+END
